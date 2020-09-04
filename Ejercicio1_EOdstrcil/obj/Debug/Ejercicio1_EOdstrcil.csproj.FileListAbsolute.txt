@@ -1,0 +1,7 @@
+D:\EDDatos\Ejercicio1_EOdstrcil\Ejercicio1_EOdstrcil\bin\Debug\Ejercicio1_EOdstrcil.exe.config
+D:\EDDatos\Ejercicio1_EOdstrcil\Ejercicio1_EOdstrcil\bin\Debug\Ejercicio1_EOdstrcil.exe
+D:\EDDatos\Ejercicio1_EOdstrcil\Ejercicio1_EOdstrcil\bin\Debug\Ejercicio1_EOdstrcil.pdb
+D:\EDDatos\Ejercicio1_EOdstrcil\Ejercicio1_EOdstrcil\obj\Debug\Ejercicio1_EOdstrcil.csprojAssemblyReference.cache
+D:\EDDatos\Ejercicio1_EOdstrcil\Ejercicio1_EOdstrcil\obj\Debug\Ejercicio1_EOdstrcil.csproj.CoreCompileInputs.cache
+D:\EDDatos\Ejercicio1_EOdstrcil\Ejercicio1_EOdstrcil\obj\Debug\Ejercicio1_EOdstrcil.exe
+D:\EDDatos\Ejercicio1_EOdstrcil\Ejercicio1_EOdstrcil\obj\Debug\Ejercicio1_EOdstrcil.pdb
